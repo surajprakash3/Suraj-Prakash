@@ -165,11 +165,6 @@ I believe in continuous learning, discipline, and contributing back to the commu
 
 <br/><br/>
 
-### 🔗 View My Full Profile  
-<a href="https://www.hackerrank.com/profile/Sp_alphatech">
-  <img src="https://img.shields.io/badge/Visit%20HackerRank%20Profile-00EA64?style=for-the-badge&logo=hackerrank" />
-</a>
-
 </div>
 
 
@@ -192,7 +187,7 @@ I believe in continuous learning, discipline, and contributing back to the commu
   <a href="https://github.com/surajprakash3">GitHub</a> •
   <a href="mailto:surajprak101@gmail.com">Email</a> •
   <a href="https://leetcode.com/u/Sp_alphatech/">LeetCode</a>
-  <a href="https://www.hackerrank.com/profile/Sp_alphatech">
+  <a href="https://www.hackerrank.com/profile/Sp_alphatech">HackerRank</a>
 </p>
 
 ---
