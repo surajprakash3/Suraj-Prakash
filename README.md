@@ -133,11 +133,32 @@ I believe in continuous learning, discipline, and contributing back to the commu
 </p>
 
 ---
-## 🟧 HackerRank Profile  
-<p align="center">
-    <img height="200" src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />
-  </a>
-</p>
+## 🟧 HackerRank Profile
+
+<div align="center">
+
+### 🎖️ HackerRank Certificates  
+<a href="https://www.hackerrank.com/profile/Sp_alphatech">
+  <img src="https://img.shields.io/badge/HackerRank-Certified-green?style=for-the-badge&logo=hackerrank" />
+</a>
+
+<br/><br/>
+
+### 🟩 Skill Badges  
+<a href="https://www.hackerrank.com/profile/Sp_alphatech">
+  <img src="https://img.shields.io/badge/Problem%20Solving-Intermediate-brightgreen?style=flat-square&logo=hackerrank" />
+</a>
+<a href="https://www.hackerrank.com/profile/Sp_alphatech">
+  <img src="https://img.shields.io/badge/Python-Basic-brightgreen?style=flat-square&logo=python" />
+</a>
+<a href="https://www.hackerrank.com/profile/Sp_alphatech">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=flat-square&logo=mysql" />
+</a>
+
+<br/><br/>
+
+</div>
+
 
 
 <!-- ========================== VISITOR GRAPH ========================== -->
